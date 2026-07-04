@@ -1,2 +1,2 @@
 Test push
-I am studying in mate academy
+I am studying in softserve
